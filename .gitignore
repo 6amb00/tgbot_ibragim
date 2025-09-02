@@ -1,0 +1,46 @@
+# Файлы окружения
+.env
+.env.local
+.env.production
+
+# Папки и файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+.Python
+
+# Папки зависимостей
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Логи и временные файлы
+*.log
+*.sqlite3
+*.pid
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Системные файлы
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE файлы
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Рабочая папка 
+test/
+temp/
